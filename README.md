@@ -21,12 +21,12 @@ we collect user-project data from three organizations and the large-scale Google
 
 **data\FormidableLabs\FormidableLabs_matrix_c_f_s.csv:**
 - original data
-- This file contains the behavior scores of all users in the organization for the project：userID\t projectID\t create or fork rating\t timestamp\t star rating\t timestamp (if have)
+- This file contains the behavior scores of all users in the organization for the project：userID\ projectID\ create or fork rating\ timestamp\ star rating\ timestamp (if have)
 
 **data\FormidableLabs\translated_train1.csv:**
 - Train file.
-- Each Line is a training instance: userID\t projectID\t rating\t timestamp (if have)
+- Each Line is a training instance: userID\ projectID\ rating\ timestamp (if have)
 
 **data\FormidableLabs\translated_test1.csv:**
 - Test file (positive instances).
-- Each Line is a testing instance: userID\t projectID\t rating\t timestamp (if have)
+- Each Line is a testing instance: userID\ projectID\ rating\ timestamp (if have)

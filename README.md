@@ -17,7 +17,7 @@ we collect user-project data from three organizations and the large-scale Google
 |vim-jp 	|47	|6262|	Vimscript	|9906	|0.03%|
 |Formidable |	47	|2321	|Web 	|3067	|0.03%|
 |harvesthq 	|31	|944	|Android	|1116|	0.04%|
-|Large(Google)|	2663	|75417	|--	|123577	|0.06%|
+|Large|	2663	|75417	|--	|123577	|0.06%|
 
 **data\FormidableLabs\FormidableLabs_matrix_c_f_s.csv:**
 - original data

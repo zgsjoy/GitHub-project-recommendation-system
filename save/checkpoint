@@ -1,0 +1,2 @@
+model_checkpoint_path: "DMF.ckpt"
+all_model_checkpoint_paths: "DMF.ckpt"

@@ -5,8 +5,8 @@ This is our official implementation for the paper:
 (Corresponding Author: [Dr. Xiangnan He](http://www.comp.nus.edu.sg/~xiangnan/)) -->
 If you use the codes, please cite our paper . Thanks!
 ## Environment
-Python 3.7
-TensorFlow >= r1.13
+- Python 3.7
+- TensorFlow >= r1.13
 
 PS. For your reference, our server environment is Intel(R) Core(TM) i5-9400 CPU @ 2.90GHz and 8 GiB memory. We recommend your free memory is more than 8 GiB to reproduce our experiments.
 
